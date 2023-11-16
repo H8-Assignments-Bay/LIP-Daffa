@@ -10,9 +10,7 @@ Buka [Google Cloud Platform](https://console.cloud.google.com/), masuk ke BigQue
 
 `PERHATIKAN!`
 * Data yang digunakan adalah tabel `crime` pada dataset `austin_crime`.
-* Setiap jawaban, wajib menyertakan query yang dikerjakan pada BigQuery ke dalam notebook di tiap nomor penjabaran masalahnya
-* Simpan setiap hasil Query ke dalam file .csv.
-* Load data menggunakan Pandas untuk setiap soal.
+* Setiap jawaban, wajib menyertakan query dan screenshot hasil query.
 
 
 ### **Soal**
