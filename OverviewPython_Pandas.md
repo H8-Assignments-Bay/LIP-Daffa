@@ -1,9 +1,3 @@
-# Graded Challenge 1
-
-_Graded Challenge ini dibuat guna mengevaluasi pembelajaran pada Hacktiv8 Data Science Fulltime Program khususnya pada konsep Basic SQL, Python, serta Data Preparation with Pandas._
-
----
-
 ## Dataset Description
 
 * Pada graded challenge ini, data diakses menggunakan `bigquery-public-data` pada Google Cloud Big Query.
@@ -49,15 +43,6 @@ Perhatikan petunjuk penggunaan dataset!
       > Pada bab terakhir ini, **harus berisi** kesimpulan yang mencerminkan hasil yang didapat dengan dibandingkan dengan *problem statement* yang sudah ditulis di bagian pengenalan.
 
 4. *Notebook* harus diupload dalam repositori GitHub Clasroom masing-masing siswa untuk selanjutnya dinilai.
-
-## Assignment Submission
-
-- Simpan assignment pada sesi ini dengan nama `h8dsft_P0W1_<nama-student>.ipynb`, misal `h8dsft_P0W1_raka_ardhi.ipynb`.
-- Push Assigment yang telah dibuat ke akun Github masing-masing student.
-
-## Assignment Objectives
-
-*Graded Challenge 1* ini dibuat guna mengevaluasi konsep Basic SQL, Python, serta Data Preparation with Pandas sebagai berikut:
 
 - Mampu memuat data dengan Pandas
 - Mampu menangani missing values pada dataset
